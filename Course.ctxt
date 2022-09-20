@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Course
+comment0.text=\r\n\ Short,\ one-line\ description\ of\ course\ class\ here.\r\n\ \r\n\ Optionally,\ include\ a\ paragraph\ that\ provides\ a\ more\ \r\n\ detailed\ description.\r\n\r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=courseName\ instructor\ textBook
+comment1.target=Course(java.lang.String,\ java.lang.String,\ TextBook)
+comment1.text=\r\n\ @param\ courseName\ a\r\n\ @param\ instructor\ a\r\n\ @param\ textBook\ a\ \r\n
+comment10.params=
+comment10.target=double\ getAverage()
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=java.lang.String\ getCourseName()
+comment4.params=
+comment4.target=java.lang.String\ getInstructor()
+comment5.params=
+comment5.target=TextBook\ getTextBook()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment7.params=grades
+comment7.target=void\ setGrades(double[])
+comment8.params=
+comment8.target=double\ getMinimum()
+comment9.params=
+comment9.target=double\ getMaximum()
+numComments=11
